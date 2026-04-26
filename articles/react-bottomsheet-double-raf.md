@@ -1,5 +1,5 @@
 ---
-title: "ライブラリなしでスワイプ対応 BottomSheet を React に実装した——CSSトランジションが「一発で動かない理由」と double rAF trick"
+title: "ライブラリなしで作る React BottomSheet——double rAF と CSS トランジションの落とし穴"
 emoji: "📱"
 type: "tech"
 topics: ["react", "typescript", "css", "nextjs", "frontend"]
