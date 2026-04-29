@@ -3,7 +3,7 @@ title: "`Promise.all` で複数APIを並列フェッチしつつ、1件失敗し
 emoji: "🔀"
 type: "tech"
 topics: ["javascript", "typescript", "react", "nextjs", "promise"]
-published: false
+published: true
 canonical_url: "https://mojitonews.hateblo.jp/entry/promise-all-partial-success-bus-timetable"
 ---
 
