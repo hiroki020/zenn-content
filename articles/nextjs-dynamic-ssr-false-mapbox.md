@@ -1,5 +1,5 @@
 ---
-title: "Next.js で Mapbox が `window is not defined` で死ぬ理由と解決策——`dynamic({ ssr: false })` と `\"use client\"` の使い分け"
+title: "Mapbox で window is not defined——Next.js の dynamic と use client の使い分け"
 emoji: "🗺️"
 type: "tech"
 topics: ["javascript", "typescript", "react", "nextjs", "mapbox"]
