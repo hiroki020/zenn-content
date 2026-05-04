@@ -3,7 +3,7 @@ title: "Mapbox で window is not defined——Next.js の dynamic と use client
 emoji: "🗺️"
 type: "tech"
 topics: ["javascript", "typescript", "react", "nextjs", "mapbox"]
-published: false
+published: true
 ---
 
 :::message
