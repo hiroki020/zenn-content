@@ -3,7 +3,7 @@ title: "TypeScript の Generics を実際に使いたくなった場面——汎
 emoji: "🔧"
 type: "tech"
 topics: ["typescript", "react", "nextjs"]
-published: false
+published: true
 ---
 
 ## はじめに
