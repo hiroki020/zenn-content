@@ -4,7 +4,6 @@ emoji: "📱"
 type: "tech"
 topics: ["react", "typescript", "css", "nextjs", "frontend"]
 published: true
-canonical_url: "https://mojitonews.hateblo.jp/entry/bottomsheet-from-scratch-double-raf"
 ---
 
 ## はじめに：なぜゼロから書いたのか

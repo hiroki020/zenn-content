@@ -4,7 +4,6 @@ emoji: "⚛️"
 type: "tech"
 topics: ["react", "jquery", "nextjs", "javascript", "typescript"]
 published: true
-canonical_url: "https://mojitonews.hateblo.jp/entry/jquery-react-declarative-ui"
 ---
 
 ## はじめに

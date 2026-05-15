@@ -4,7 +4,6 @@ emoji: "🔀"
 type: "tech"
 topics: ["javascript", "typescript", "react", "nextjs", "promise"]
 published: true
-canonical_url: "https://mojitonews.hateblo.jp/entry/promise-all-partial-success-bus-timetable"
 ---
 
 ## はじめに

@@ -4,7 +4,6 @@ emoji: "🎯"
 type: "tech"
 topics: ["react", "nextjs", "typescript", "javascript", "hooks"]
 published: true
-canonical_url: "https://mojitonews.hateblo.jp/entry/use-callback-when-to-use"
 ---
 
 しまなみ海道の観光サイト勉強も兼ねて作り始めたとき、カスタムフックを書くたびに `useCallback` を巻いていました。

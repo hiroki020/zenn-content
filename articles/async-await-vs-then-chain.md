@@ -4,7 +4,6 @@ emoji: "🔗"
 type: "tech"
 topics: ["javascript", "react", "nextjs", "typescript"]
 published: true
-canonical_url: "https://mojitonews.hateblo.jp/entry/async-await-then-chain-usage-map-site"
 ---
 
 JavaScriptの非同期処理を書くとき、async/awaitと.then()チェーンのどちらを使うか迷ったことはありませんか？

@@ -4,7 +4,6 @@ emoji: "🎣"
 type: "tech"
 topics: ["javascript", "typescript", "react", "nextjs", "hooks"]
 published: true
-canonical_url: "https://mojitonews.hateblo.jp/entry/useeffect-deps-array-patterns"
 ---
 
 ## はじめに
